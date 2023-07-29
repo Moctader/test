@@ -1,3 +1,4 @@
 This is test1
 This is tes2 second line
 This is tes3 thrid line
+logo alignment is centered
